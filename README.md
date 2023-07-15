@@ -1,7 +1,7 @@
 # Adopt&Rescue
 
 ## This is a website about adopting and rescuing abandoned and stray animals which I created with Html and CSS.
-This is one of my little projects I made like a beginner and I am keep learning.
+This is one of my little projects I made as a beginner and I'm keep learning.
 
 ## Presentation
 
